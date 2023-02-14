@@ -1,0 +1,15 @@
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\bin\Debug\net6.0\CallBacks.exe
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\bin\Debug\net6.0\CallBacks.deps.json
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\bin\Debug\net6.0\CallBacks.runtimeconfig.json
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\bin\Debug\net6.0\CallBacks.dll
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\bin\Debug\net6.0\CallBacks.pdb
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\obj\Debug\net6.0\CallBacks.csproj.AssemblyReference.cache
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\obj\Debug\net6.0\CallBacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\obj\Debug\net6.0\CallBacks.AssemblyInfoInputs.cache
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\obj\Debug\net6.0\CallBacks.AssemblyInfo.cs
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\obj\Debug\net6.0\CallBacks.csproj.CoreCompileInputs.cache
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\obj\Debug\net6.0\CallBacks.dll
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\obj\Debug\net6.0\refint\CallBacks.dll
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\obj\Debug\net6.0\CallBacks.pdb
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\obj\Debug\net6.0\CallBacks.genruntimeconfig.cache
+D:\Alvaro\repos\C#\CursoIntermedio\CallBacks\obj\Debug\net6.0\ref\CallBacks.dll

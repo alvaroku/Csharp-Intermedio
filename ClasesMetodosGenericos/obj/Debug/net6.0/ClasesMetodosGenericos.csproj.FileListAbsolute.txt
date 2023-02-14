@@ -1,0 +1,15 @@
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\bin\Debug\net6.0\ClasesMetodosGenericos.exe
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\bin\Debug\net6.0\ClasesMetodosGenericos.deps.json
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\bin\Debug\net6.0\ClasesMetodosGenericos.runtimeconfig.json
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\bin\Debug\net6.0\ClasesMetodosGenericos.dll
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\bin\Debug\net6.0\ClasesMetodosGenericos.pdb
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\obj\Debug\net6.0\ClasesMetodosGenericos.csproj.AssemblyReference.cache
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\obj\Debug\net6.0\ClasesMetodosGenericos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\obj\Debug\net6.0\ClasesMetodosGenericos.AssemblyInfoInputs.cache
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\obj\Debug\net6.0\ClasesMetodosGenericos.AssemblyInfo.cs
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\obj\Debug\net6.0\ClasesMetodosGenericos.csproj.CoreCompileInputs.cache
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\obj\Debug\net6.0\ClasesMetodosGenericos.dll
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\obj\Debug\net6.0\refint\ClasesMetodosGenericos.dll
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\obj\Debug\net6.0\ClasesMetodosGenericos.pdb
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\obj\Debug\net6.0\ClasesMetodosGenericos.genruntimeconfig.cache
+D:\Alvaro\repos\C#\CursoIntermedio\ClasesMetodosGenericos\obj\Debug\net6.0\ref\ClasesMetodosGenericos.dll

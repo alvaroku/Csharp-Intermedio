@@ -1,0 +1,15 @@
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\bin\Debug\net6.0\Interfaces.exe
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\bin\Debug\net6.0\Interfaces.deps.json
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\bin\Debug\net6.0\Interfaces.dll
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\bin\Debug\net6.0\Interfaces.pdb
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\obj\Debug\net6.0\Interfaces.dll
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\obj\Debug\net6.0\refint\Interfaces.dll
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\obj\Debug\net6.0\Interfaces.pdb
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
+D:\Alvaro\repos\C#\CursoIntermedio\CursoIntermedio\obj\Debug\net6.0\ref\Interfaces.dll
